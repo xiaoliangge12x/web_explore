@@ -1,0 +1,3 @@
+# filter some file
+.idea/
+*.pyc
